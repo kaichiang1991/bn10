@@ -1,0 +1,17 @@
+{
+    "game": {
+        "BetLevelTitle" : "เดิมพันทวีคูณ",
+        "Line": "รับคะแนนไลน์ที่",
+        "GetWin": "รับคะแนน",
+        "SymbolWin": "รับคะแนนสัญลักษณ์",
+        "SpecialSymbolWin": "รับคะแนนสัญลักษณ์พิเศษ",
+        "FreeGameWin": "รับคะแนนเกมฟรี",
+        "InsufficientBalanceTitle": "ยอดเงินไม่เพียงพอ"
+    },
+
+    "system": {
+        "IdleForceClose": "ไม่ได้ใช้งานนานเกินไปโปรดลงชื่อเข้าใช้อีกครั้ง",
+        "ConnectClose": "Connect Close.",
+        "TokenInvalid": "Token Invalid."
+    }
+}

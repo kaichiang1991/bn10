@@ -1,0 +1,17 @@
+{
+    "game": {
+        "BetLevelTitle": "Số nhân đặt cược",
+        "Line": "dây",
+        "GetWin": "Điểm số",
+        "SymbolWin": "Điểm biểu tượng",
+        "SpecialSymbolWin": "Điểm biểu tượng đặc biệt",
+        "FreeGameWin": "Điểm số trò chơi miễn phí",
+        "InsufficientBalanceTitle": "Số dư không đủ"
+    },
+
+    "system": {
+        "IdleForceClose": "Thời gian nhàn rỗi quá dài, vui lòng đăng nhập lại",
+        "ConnectClose": "Connect Close.",
+        "TokenInvalid": "Token Invalid."
+    }
+}

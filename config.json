@@ -1,0 +1,12 @@
+{
+    "gameTitle":{
+        "zh-cn": "富貴熊貓",
+        "en": "Fu-Gui Panda",
+        "vi": "Phú quý gấu trúc",
+        "th": "ฟู้ก้อยแพนด้า"
+    },
+    "DemoOn": true,
+    "GameID": 10,
+    "historyOn": true,
+    "exitOn": true
+}

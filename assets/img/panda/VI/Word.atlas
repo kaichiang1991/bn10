@@ -1,0 +1,83 @@
+
+Word.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Black
+  rotate: false
+  xy: 1067, 48
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Congratulations
+  rotate: true
+  xy: 1001, 538
+  size: 471, 170
+  orig: 1280, 720
+  offset: 404, 414
+  index: -1
+FreeUIWord
+  rotate: true
+  xy: 577, 126
+  size: 396, 64
+  orig: 1280, 720
+  offset: 513, 634
+  index: -1
+Glow_01
+  rotate: false
+  xy: 732, 202
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+Glow_02
+  rotate: true
+  xy: 1054, 250
+  size: 286, 270
+  orig: 320, 320
+  offset: 27, 35
+  index: -1
+Glow_03
+  rotate: false
+  xy: 1173, 729
+  size: 279, 280
+  orig: 320, 320
+  offset: 19, 24
+  index: -1
+Logo
+  rotate: true
+  xy: 643, 188
+  size: 334, 87
+  orig: 1280, 720
+  offset: 474, 633
+  index: -1
+Win_Panda
+  rotate: false
+  xy: 577, 524
+  size: 422, 485
+  orig: 423, 485
+  offset: 1, 0
+  index: -1
+Win_Reel
+  rotate: true
+  xy: 2, 107
+  size: 902, 573
+  orig: 1280, 720
+  offset: 188, 112
+  index: -1
+Win_Word01
+  rotate: false
+  xy: 499, 14
+  size: 566, 91
+  orig: 1280, 720
+  offset: 357, 485
+  index: -1
+Win_Word02
+  rotate: false
+  xy: 2, 2
+  size: 495, 103
+  orig: 1280, 720
+  offset: 366, 260
+  index: -1

@@ -1,0 +1,69 @@
+
+BigWin.png
+size: 854,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/BigWin_01
+  rotate: false
+  xy: 475, 12
+  size: 377, 147
+  orig: 377, 147
+  offset: 0, 0
+  index: -1
+image/BigWin_02
+  rotate: true
+  xy: 318, 231
+  size: 796, 155
+  orig: 796, 155
+  offset: 0, 0
+  index: -1
+image/BigWin_03
+  rotate: true
+  xy: 2, 25
+  size: 1002, 156
+  orig: 1002, 156
+  offset: 0, 0
+  index: -1
+image/BigWin_04
+  rotate: true
+  xy: 160, 25
+  size: 1002, 156
+  orig: 1002, 156
+  offset: 0, 0
+  index: -1
+image/Glow_01
+  rotate: false
+  xy: 475, 707
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+image/Glow_02
+  rotate: false
+  xy: 475, 161
+  size: 280, 265
+  orig: 320, 320
+  offset: 30, 37
+  index: -1
+image/Glow_03
+  rotate: false
+  xy: 475, 428
+  size: 278, 277
+  orig: 320, 320
+  offset: 19, 25
+  index: -1
+image/ShockWave
+  rotate: true
+  xy: 318, 73
+  size: 156, 155
+  orig: 169, 169
+  offset: 6, 7
+  index: -1
+image/Star
+  rotate: false
+  xy: 318, 2
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

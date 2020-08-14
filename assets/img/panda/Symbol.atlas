@@ -1,0 +1,300 @@
+
+Symbol.png
+size: 1410,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 862, 358
+  size: 163, 150
+  orig: 165, 152
+  offset: 1, 1
+  index: -1
+Body
+  rotate: true
+  xy: 2, 122
+  size: 195, 123
+  orig: 195, 123
+  offset: 0, 0
+  index: -1
+EarLeft
+  rotate: true
+  xy: 1355, 11
+  size: 51, 52
+  orig: 51, 59
+  offset: 0, 2
+  index: -1
+EarRight
+  rotate: true
+  xy: 1306, 9
+  size: 53, 47
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+EyeLeft
+  rotate: true
+  xy: 385, 331
+  size: 11, 9
+  orig: 13, 11
+  offset: 1, 1
+  index: -1
+EyeRight
+  rotate: true
+  xy: 374, 330
+  size: 12, 9
+  orig: 14, 11
+  offset: 1, 1
+  index: -1
+Eyelid01
+  rotate: false
+  xy: 178, 323
+  size: 48, 19
+  orig: 51, 21
+  offset: 2, 1
+  index: -1
+Eyelid02
+  rotate: false
+  xy: 228, 323
+  size: 48, 19
+  orig: 50, 21
+  offset: 1, 1
+  index: -1
+Eyelid03
+  rotate: false
+  xy: 278, 323
+  size: 46, 19
+  orig: 48, 21
+  offset: 1, 1
+  index: -1
+Eyelid04
+  rotate: false
+  xy: 326, 323
+  size: 46, 19
+  orig: 48, 21
+  offset: 1, 1
+  index: -1
+Face
+  rotate: false
+  xy: 419, 5
+  size: 159, 137
+  orig: 161, 138
+  offset: 2, 1
+  index: -1
+Face_Black
+  rotate: true
+  xy: 983, 197
+  size: 159, 137
+  orig: 161, 138
+  offset: 2, 1
+  index: -1
+GoldFrame
+  rotate: false
+  xy: 580, 3
+  size: 168, 161
+  orig: 170, 164
+  offset: 1, 2
+  index: -1
+GoldFrameUp
+  rotate: true
+  xy: 919, 5
+  size: 168, 98
+  orig: 170, 100
+  offset: 1, 2
+  index: -1
+Hat
+  rotate: true
+  xy: 1170, 20
+  size: 102, 63
+  orig: 105, 66
+  offset: 3, 1
+  index: -1
+HatLeft
+  rotate: true
+  xy: 1306, 64
+  size: 58, 59
+  orig: 58, 60
+  offset: 0, 1
+  index: -1
+HatRight
+  rotate: false
+  xy: 1170, 365
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1170, 422
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 1122, 211
+  size: 151, 141
+  orig: 225, 225
+  offset: 38, 43
+  index: -1
+RightHand
+  rotate: false
+  xy: 1170, 132
+  size: 79, 77
+  orig: 81, 78
+  offset: 0, 1
+  index: -1
+StarLight01
+  rotate: false
+  xy: 1019, 8
+  size: 30, 30
+  orig: 58, 58
+  offset: 14, 14
+  index: -1
+StarLight02
+  rotate: false
+  xy: 1367, 82
+  size: 40, 40
+  orig: 72, 72
+  offset: 16, 16
+  index: -1
+Symbol/SymbolBase
+  rotate: true
+  xy: 750, 3
+  size: 170, 167
+  orig: 172, 167
+  offset: 1, 0
+  index: -1
+Symbol/Symbol_H1_00
+  rotate: true
+  xy: 526, 349
+  size: 172, 167
+  orig: 172, 167
+  offset: 0, 0
+  index: -1
+Symbol/Symbol_H1_01
+  rotate: false
+  xy: 127, 140
+  size: 172, 177
+  orig: 172, 187
+  offset: 0, 5
+  index: -1
+Symbol/Symbol_H2_00
+  rotate: true
+  xy: 649, 175
+  size: 172, 166
+  orig: 172, 167
+  offset: 0, 1
+  index: -1
+Symbol/Symbol_H2_01
+  rotate: false
+  xy: 178, 344
+  size: 172, 177
+  orig: 172, 187
+  offset: 0, 5
+  index: -1
+Symbol/Symbol_H3_00
+  rotate: true
+  xy: 817, 175
+  size: 172, 164
+  orig: 172, 167
+  offset: 0, 3
+  index: -1
+Symbol/Symbol_H3_01
+  rotate: false
+  xy: 301, 144
+  size: 172, 177
+  orig: 172, 187
+  offset: 0, 5
+  index: -1
+Symbol/Symbol_H4_00
+  rotate: true
+  xy: 695, 349
+  size: 172, 165
+  orig: 172, 167
+  offset: 0, 2
+  index: -1
+Symbol/Symbol_H4_01
+  rotate: false
+  xy: 352, 344
+  size: 172, 177
+  orig: 172, 187
+  offset: 0, 5
+  index: -1
+Symbol/Symbol_N1_00
+  rotate: true
+  xy: 1019, 40
+  size: 155, 149
+  orig: 172, 167
+  offset: 10, 10
+  index: -1
+Symbol/Symbol_N1_01
+  rotate: false
+  xy: 1014, 364
+  size: 154, 157
+  orig: 172, 187
+  offset: 11, 16
+  index: -1
+Symbol/Symbol_N2_00
+  rotate: false
+  xy: 134, 2
+  size: 148, 136
+  orig: 172, 167
+  offset: 13, 14
+  index: -1
+Symbol/Symbol_N2_01
+  rotate: true
+  xy: 1265, 373
+  size: 148, 143
+  orig: 172, 187
+  offset: 13, 21
+  index: -1
+Symbol/Symbol_N3_00
+  rotate: false
+  xy: 284, 5
+  size: 133, 133
+  orig: 172, 167
+  offset: 19, 12
+  index: -1
+Symbol/Symbol_N3_01
+  rotate: true
+  xy: 1265, 239
+  size: 132, 141
+  orig: 172, 187
+  offset: 19, 18
+  index: -1
+Symbol/Symbol_N4_00
+  rotate: false
+  xy: 1265, 124
+  size: 130, 113
+  orig: 172, 167
+  offset: 23, 25
+  index: -1
+Symbol/Symbol_N4_01
+  rotate: false
+  xy: 2, 2
+  size: 130, 118
+  orig: 172, 187
+  offset: 23, 32
+  index: -1
+Symbol_WD_01
+  rotate: false
+  xy: 2, 319
+  size: 174, 202
+  orig: 199, 256
+  offset: 17, 46
+  index: -1
+Yuanbao
+  rotate: true
+  xy: 1235, 24
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+線獎框/WinSquare_00
+  rotate: true
+  xy: 475, 166
+  size: 176, 172
+  orig: 176, 172
+  offset: 0, 0
+  index: -1

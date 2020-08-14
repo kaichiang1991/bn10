@@ -1,0 +1,34 @@
+
+PayTable.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PayTable_1
+  rotate: false
+  xy: 2, 1284
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+PayTable_2
+  rotate: true
+  xy: 1284, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+PayTable_3
+  rotate: true
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+PayTable_4
+  rotate: false
+  xy: 724, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1

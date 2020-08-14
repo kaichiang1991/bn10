@@ -1,0 +1,34 @@
+
+Line.png
+size: 881,705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line_01
+  rotate: false
+  xy: 2, 2
+  size: 875, 8
+  orig: 875, 8
+  offset: 0, 0
+  index: -1
+Line_04
+  rotate: false
+  xy: 2, 364
+  size: 877, 339
+  orig: 878, 339
+  offset: 0, 0
+  index: -1
+Line_06
+  rotate: false
+  xy: 2, 188
+  size: 876, 174
+  orig: 877, 174
+  offset: 1, 0
+  index: -1
+Line_08
+  rotate: false
+  xy: 2, 12
+  size: 875, 174
+  orig: 877, 174
+  offset: 1, 0
+  index: -1

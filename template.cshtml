@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<% for (var chunk in htmlWebpackPlugin.options.style.css) { %>
+	<link rel="stylesheet" type="text/css" href="<%= htmlWebpackPlugin.options.style.css[chunk] %>"><% } %>
+</head>
+
+<body>
+	<div id="data" style="display: none;"><div id="width"></div><div id="height"></div></div>
+	<div class="full-cover"></div>
+	<div id="game">
+		<div id="div_pixi"></div>
+	</div>
+	<iframe src="" id="detail" name="detail" scrolling="auto" width="0" height="0" frameborder="0"></iframe>
+	<div id="preload"><div><span>Initializing...</span></div></div>
+</body> 
+</html>
+
+<% for (var chunk in htmlWebpackPlugin.options.files.js) { %>
+<script src="<%= htmlWebpackPlugin.options.files.js[chunk] %>"></script><% } %>

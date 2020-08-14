@@ -1,0 +1,179 @@
+
+BaseUI.png
+size: 2047,1597
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WinBG
+  rotate: false
+  xy: 54, 1508
+  size: 712, 87
+  orig: 730, 87
+  offset: 10, 0
+  index: -1
+images/Black
+  rotate: false
+  xy: 650, 32
+  size: 428, 514
+  orig: 488, 593
+  offset: 1, 1
+  index: -1
+images/Cloud
+  rotate: false
+  xy: 2, 1268
+  size: 510, 238
+  orig: 554, 300
+  offset: 14, 29
+  index: -1
+images/Free_02
+  rotate: false
+  xy: 2, 548
+  size: 1142, 242
+  orig: 1144, 244
+  offset: 1, 1
+  index: -1
+images/Free_03
+  rotate: true
+  xy: 2, 830
+  size: 340, 534
+  orig: 357, 549
+  offset: 1, 1
+  index: -1
+images/Free_Shine
+  rotate: true
+  xy: 1535, 1034
+  size: 326, 472
+  orig: 331, 476
+  offset: 2, 1
+  index: -1
+images/Free_Shine_Bug
+  rotate: true
+  xy: 2, 1546
+  size: 49, 50
+  orig: 53, 54
+  offset: 2, 2
+  index: -1
+images/Main_Normal_02_01
+  rotate: true
+  xy: 1146, 441
+  size: 349, 628
+  orig: 362, 631
+  offset: 1, 1
+  index: -1
+images/Main_Normal_02_02
+  rotate: false
+  xy: 1080, 2
+  size: 580, 437
+  orig: 590, 444
+  offset: 5, 4
+  index: -1
+images/Main_Normal_02_03
+  rotate: true
+  xy: 2, 123
+  size: 423, 646
+  orig: 425, 650
+  offset: 1, 1
+  index: -1
+images/Main_Normal_03
+  rotate: false
+  xy: 538, 792
+  size: 1169, 240
+  orig: 1178, 242
+  offset: 1, 1
+  index: -1
+images/bamboo_01
+  rotate: true
+  xy: 514, 1172
+  size: 253, 287
+  orig: 313, 408
+  offset: 0, 0
+  index: -1
+images/bamboo_02
+  rotate: true
+  xy: 1102, 1065
+  size: 295, 431
+  orig: 309, 473
+  offset: 13, 0
+  index: -1
+images/bamboo_03
+  rotate: true
+  xy: 1527, 1362
+  size: 233, 518
+  orig: 315, 518
+  offset: 7, 0
+  index: -1
+images/bamboo_04
+  rotate: true
+  xy: 768, 1427
+  size: 168, 530
+  orig: 182, 530
+  offset: 0, 0
+  index: -1
+images/bamboo_05
+  rotate: false
+  xy: 803, 1140
+  size: 297, 285
+  orig: 297, 506
+  offset: 0, 0
+  index: -1
+images/bamboo_06
+  rotate: false
+  xy: 1300, 1404
+  size: 225, 191
+  orig: 278, 502
+  offset: 53, 0
+  index: -1
+
+BaseUI2.png
+size: 1952,1755
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bottom_Free
+  rotate: false
+  xy: 2, 1248
+  size: 874, 505
+  orig: 1280, 720
+  offset: 205, 120
+  index: -1
+Bottom_Main
+  rotate: false
+  xy: 878, 1248
+  size: 874, 505
+  orig: 1280, 720
+  offset: 205, 120
+  index: -1
+FreeUI
+  rotate: false
+  xy: 2, 2
+  size: 1042, 626
+  orig: 1280, 720
+  offset: 118, 94
+  index: -1
+Outline
+  rotate: true
+  xy: 1284, 327
+  size: 919, 666
+  orig: 1280, 720
+  offset: 181, 54
+  index: -1
+images/BG
+  rotate: false
+  xy: 2, 630
+  size: 1280, 616
+  orig: 1282, 618
+  offset: 1, 1
+  index: -1
+
+BaseUI3.png
+size: 1284,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FGBG
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1282, 722
+  offset: 1, 1
+  index: -1

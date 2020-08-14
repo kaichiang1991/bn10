@@ -1,0 +1,27 @@
+
+Loading.png
+size: 1487,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Load_Logo
+  rotate: true
+  xy: 1284, 230
+  size: 492, 134
+  orig: 1280, 720
+  offset: 47, 39
+  index: -1
+Loading
+  rotate: true
+  xy: 1420, 375
+  size: 347, 65
+  orig: 1280, 720
+  offset: 892, 30
+  index: -1
+LoadingBackground
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1

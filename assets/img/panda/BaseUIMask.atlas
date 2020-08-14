@@ -1,0 +1,216 @@
+
+BaseUIMask.png
+size: 1722,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaseGame遮罩/BaseGameMask_1_1
+  rotate: false
+  xy: 2, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 209, 456
+  index: -1
+BaseGame遮罩/BaseGameMask_1_2
+  rotate: false
+  xy: 2, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 209, 291
+  index: -1
+BaseGame遮罩/BaseGameMask_1_3
+  rotate: false
+  xy: 174, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 209, 126
+  index: -1
+BaseGame遮罩/BaseGameMask_2_1
+  rotate: false
+  xy: 2, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 382, 456
+  index: -1
+BaseGame遮罩/BaseGameMask_2_2
+  rotate: false
+  xy: 174, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 382, 291
+  index: -1
+BaseGame遮罩/BaseGameMask_2_3
+  rotate: false
+  xy: 346, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 382, 126
+  index: -1
+BaseGame遮罩/BaseGameMask_3_1
+  rotate: false
+  xy: 174, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 555, 456
+  index: -1
+BaseGame遮罩/BaseGameMask_3_2
+  rotate: false
+  xy: 346, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 555, 291
+  index: -1
+BaseGame遮罩/BaseGameMask_3_3
+  rotate: false
+  xy: 518, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 555, 126
+  index: -1
+BaseGame遮罩/BaseGameMask_4_1
+  rotate: false
+  xy: 346, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 728, 456
+  index: -1
+BaseGame遮罩/BaseGameMask_4_2
+  rotate: false
+  xy: 518, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 728, 291
+  index: -1
+BaseGame遮罩/BaseGameMask_4_3
+  rotate: false
+  xy: 690, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 728, 126
+  index: -1
+BaseGame遮罩/BaseGameMask_5_1
+  rotate: false
+  xy: 518, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 901, 456
+  index: -1
+BaseGame遮罩/BaseGameMask_5_2
+  rotate: false
+  xy: 690, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 901, 291
+  index: -1
+BaseGame遮罩/BaseGameMask_5_3
+  rotate: false
+  xy: 862, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 901, 126
+  index: -1
+FreeGame遮罩/FreeGameMask_1_1
+  rotate: false
+  xy: 690, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 209, 456
+  index: -1
+FreeGame遮罩/FreeGameMask_1_2
+  rotate: false
+  xy: 862, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 209, 291
+  index: -1
+FreeGame遮罩/FreeGameMask_1_3
+  rotate: false
+  xy: 1034, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 209, 126
+  index: -1
+FreeGame遮罩/FreeGameMask_2_1
+  rotate: false
+  xy: 862, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 382, 456
+  index: -1
+FreeGame遮罩/FreeGameMask_2_2
+  rotate: false
+  xy: 1034, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 382, 291
+  index: -1
+FreeGame遮罩/FreeGameMask_2_3
+  rotate: false
+  xy: 1206, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 382, 126
+  index: -1
+FreeGame遮罩/FreeGameMask_3_1
+  rotate: false
+  xy: 1034, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 555, 456
+  index: -1
+FreeGame遮罩/FreeGameMask_3_2
+  rotate: false
+  xy: 1206, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 555, 291
+  index: -1
+FreeGame遮罩/FreeGameMask_3_3
+  rotate: false
+  xy: 1378, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 555, 126
+  index: -1
+FreeGame遮罩/FreeGameMask_4_1
+  rotate: false
+  xy: 1206, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 728, 456
+  index: -1
+FreeGame遮罩/FreeGameMask_4_2
+  rotate: false
+  xy: 1378, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 728, 291
+  index: -1
+FreeGame遮罩/FreeGameMask_4_3
+  rotate: false
+  xy: 1550, 336
+  size: 170, 165
+  orig: 1280, 720
+  offset: 728, 126
+  index: -1
+FreeGame遮罩/FreeGameMask_5_1
+  rotate: false
+  xy: 1378, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 901, 456
+  index: -1
+FreeGame遮罩/FreeGameMask_5_2
+  rotate: false
+  xy: 1550, 169
+  size: 170, 165
+  orig: 1280, 720
+  offset: 901, 291
+  index: -1
+FreeGame遮罩/FreeGameMask_5_3
+  rotate: false
+  xy: 1550, 2
+  size: 170, 165
+  orig: 1280, 720
+  offset: 901, 126
+  index: -1

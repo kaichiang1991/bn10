@@ -1,0 +1,17 @@
+{
+    "game": {
+        "BetLevelTitle" : "押注乘数",
+        "Line": "线",
+        "GetWin": "得分",
+        "SymbolWin": "符号得分",
+        "SpecialSymbolWin": "特殊符号得分",
+        "FreeGameWin": "免费游戏得分",
+        "InsufficientBalanceTitle": "余额不足"
+    },
+
+    "system": {
+        "IdleForceClose": "闲置时间过久，请重新登入",
+        "ConnectClose": "Connect Close.",
+        "TokenInvalid": "Token Invalid."
+    }
+}

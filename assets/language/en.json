@@ -1,0 +1,17 @@
+{
+    "game": {
+        "BetLevelTitle" : "Bet Level",
+        "Line": "Line",
+        "GetWin": "Win",
+        "SymbolWin": "Symbol Win",
+        "SpecialSymbolWin": "Special Symbol Win",
+        "FreeGameWin": "Free Game Win",
+        "InsufficientBalanceTitle": "Insufficient Balance"
+    },
+
+    "system": {
+        "IdleForceClose": "You have been idle for too long. Your session is closed.",
+        "ConnectClose": "Connect Close.",
+        "TokenInvalid": "Token Invalid."
+    }
+}
